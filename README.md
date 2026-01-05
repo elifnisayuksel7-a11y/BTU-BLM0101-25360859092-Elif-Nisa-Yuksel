@@ -25,5 +25,5 @@ Program, kullanıcıdan ikili (binary) girişler (0 ve 1) alır, seçilen mantı
     * İç içe for döngüsü kullanılarak tüm ihtimaller değişkenlerin alacağı tüm değerlere göre ortaya çıkan mantık kapısı değeri ekrana yazdırlacaktır.
 
 # Projenin Sunum İçeriği
- * Projemin sunum videosuna [Youtube]() üzerinden ulaşabilirsiniz.
+ * Projemin sunum videosuna [Youtube](https://youtu.be/sNbHbCpr-AY) üzerinden ulaşabilirsiniz.
 
