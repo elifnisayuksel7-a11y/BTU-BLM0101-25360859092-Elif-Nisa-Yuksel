@@ -1,4 +1,4 @@
-# btu-BLM0101-25360859092-Project
+# btu-BLM0101-25360859092-Elif-Nisa-Yuksel
 
 # Öğrenci Bilgileri
  * **Öğrenci Adı:** Elif Nisa
